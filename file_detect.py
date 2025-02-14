@@ -1,4 +1,3 @@
-# file_utils.py
 import os
 
 def detect_file_type(file_name):
