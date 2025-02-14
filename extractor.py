@@ -1,4 +1,3 @@
-# extractors.py
 import fitz
 import tempfile
 import os
